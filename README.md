@@ -1,7 +1,7 @@
 ## 資料庫管理課堂練習
 使用工具：
-1. Python: Pandas, Numpy, Pandasql
-2. 2. SQL: DML, DQL
+1.Python: Pandas, Numpy, Pandasql
+2.SQL: DML, DQL
 ### Week 01
 Pandas基本功能
 ### Week 02
