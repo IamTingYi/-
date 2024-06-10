@@ -2,7 +2,7 @@
 使用工具：\
 1.Python: Pandas, Numpy, Pandasql\
 2.SQL: DML, DQL
-### Week 01
+#### Week 01
 Pandas基本功能
 ### Week 02
 數值計算、條件查詢、集合、極值
