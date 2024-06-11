@@ -2,7 +2,7 @@
 使用工具：
 1. DBeaver
 2. Python: Pandas, Numpy, Pandasql
-3. SQL: DML, DQL
+3. SQL: DDL, DML, DQL
 ### Week 01
 Pandas基本功能
 ### Week 02
